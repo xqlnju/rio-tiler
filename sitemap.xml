@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://cogeotiff.github.io/rio-tiler/</loc>
+     <lastmod>2020-08-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://cogeotiff.github.io/rio-tiler/examples/Using-rio-tiler-mosaic/</loc>
+     <lastmod>2020-08-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://cogeotiff.github.io/rio-tiler/v2_migration/</loc>
+     <lastmod>2020-08-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://cogeotiff.github.io/rio-tiler/mosaic/</loc>
+     <lastmod>2020-08-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://cogeotiff.github.io/rio-tiler/dynamic_tiler/</loc>
+     <lastmod>2020-08-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://cogeotiff.github.io/rio-tiler/colormap/</loc>
+     <lastmod>2020-08-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
